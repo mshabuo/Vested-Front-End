@@ -13,12 +13,12 @@ The app was developed by team 'Buzzfeed Investors' as part of the Northcoders So
 * https://github.com/BillyZen
 * https://github.com/ellenmelon1
 * https://github.com/maire-digital
-* https://github.com/mshabuo
+* https://github.com/LiamCurran95
 * https://github.com/carlc4
 
 ### Back-end Repo
 
-The back-end repository is available at: https://github.com/LiamCurran95/vested-BE
+The back-end repository is available at: https://github.com/mshabuo/vested-BE
 
 ### Node
 
